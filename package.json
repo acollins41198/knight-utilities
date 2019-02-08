@@ -1,0 +1,19 @@
+{
+  "name": "knight-utilities",
+  "version": "1.0.0",
+  "description": "A Magic the Gathering utility app that also serves as node.js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acollins41198/knight-utilities.git"
+  },
+  "author": "Andrew Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acollins41198/knight-utilities/issues"
+  },
+  "homepage": "https://github.com/acollins41198/knight-utilities#readme"
+}
